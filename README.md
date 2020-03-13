@@ -1,4 +1,6 @@
 # Nia-bot-public-releases
+[![Discord Bots](https://top.gg/api/widget/owner/640547201851850752.svg?noavatar=true)](https://top.gg/bot/640547201851850752) [![Discord Bots](https://top.gg/api/widget/lib/640547201851850752.svg?noavatar=true)](https://top.gg/bot/640547201851850752) [![Discord Bots](https://top.gg/api/widget/upvotes/640547201851850752.svg?noavatar=true)](https://top.gg/bot/640547201851850752) [![Discord Bots](https://top.gg/api/widget/servers/640547201851850752.svg?noavatar=true)](https://top.gg/bot/640547201851850752) [![Discord Bots](https://top.gg/api/widget/status/640547201851850752.svg?noavatar=true)](https://top.gg/bot/640547201851850752)
+
 These are the public releases for Nia#3028 a multipurpose discord bot!  
 If you face any any issues you can hit me up on my discord Fate Harsh#4310.  
 Latest Build of Nia is:  Nia v1.1.8 Alpha. Current repository build is v1.0.0 Beta.  
